@@ -85,7 +85,7 @@ body{
 }
 
 .btn {
-	margin: 10px;
+	margin: 0 20px;
 	padding: 15px 34px;
 	overflow: hidden;
 	font-family: 'Montserrat Alternates', sans-serif;
@@ -99,16 +99,18 @@ body{
 	cursor: pointer;
 	position: relative;
 	top: -500px;
-	left: 100px;
+	left: 60px;
+	margin: 10px;
+	width: 220px;
  }
  .btn1 {
-	background: linear-gradient(90deg, #d885d0, #7619fd);
+	background: linear-gradient(90deg, #fae792, #8f1616);
  }
  .btn2 {
-	background: linear-gradient(90deg, #a3ffb0, #579da3);
+	background: linear-gradient(90deg, #f75d41, #552926);
  }
  .btn3 {
-	background: linear-gradient(90deg, #49c2ff, #6a27d2);
+	background: linear-gradient(90deg, #ff9249, #6e2611);
  }
  .btn:before, .btn:after {
 	content: "";
