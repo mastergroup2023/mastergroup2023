@@ -112,6 +112,9 @@ body{
  .btn3 {
 	background: linear-gradient(90deg, #ff9249, #6e2611);
  }
+ .btn4 {
+	background: linear-gradient(90deg, #f75d41, #8f1616);
+ }
  .btn:before, .btn:after {
 	content: "";
 	position: absolute;
